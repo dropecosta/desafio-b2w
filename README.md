@@ -1,4 +1,4 @@
-# Landing Page Ingresso.com
+# Star Wars Info Planets
 > Desafio para a vaga de Front-end Developer, que consiste no desenvolvimento de uma aplicação react de acordo com o layout proposto.
 
 ## Instalação
